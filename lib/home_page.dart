@@ -180,8 +180,9 @@ class _HomePageState extends State<HomePage> {
                           borderRadius: BorderRadius.circular(2),
                           color: Colors.grey[500]),
                       indicatorDecoration: BoxDecoration(
-                          color: Colors.white,
-                          borderRadius: BorderRadius.circular(3)),
+                        color: Colors.white,
+                        borderRadius: BorderRadius.circular(3),
+                      ),
                     ),
                   ),
                 ),
